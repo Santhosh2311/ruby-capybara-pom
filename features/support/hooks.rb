@@ -30,11 +30,11 @@ def take_screenshot(scenario)
   if scenario.failed?
      scenario_name = scenario.name.gsub /[^\w\-]/, ' '
      time = Time.now.strftime("%Y-%m-%d %H%M")
-    screenshot_path = 'E:\\Santhosh\ruby-capybara-selenium-example-master\features\output\media\failed_png\\' + time + ' - ' + scenario_name + '.png'
+    screenshot_path = '.\features\output\media\failed_png\\' + time + ' - ' + scenario_name + '.png'
   else
     scenario_name = scenario.name.gsub /[^\w\-]/, ' '
     time = Time.now.strftime("%Y-%m-%d %H%M")
-    screenshot_path = 'E:\\Santhosh\ruby-capybara-selenium-example-master\features\output\media\success_png\\' + time + ' - ' + scenario_name + '.png'
+    screenshot_path = '.\features\output\media\success_png\\' + time + ' - ' + scenario_name + '.png'
   end
   page.driver.browser.save_screenshot(screenshot_path)
   embed(screenshot_path, "image/png", "SCREENSHOT")
