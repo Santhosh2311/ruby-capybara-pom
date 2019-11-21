@@ -1,8 +1,11 @@
 ## ##YAML Template
-default: --profile html_report
+default: --profile html_report --profile json_report
 html_report: --format progress
              --format html
              --out=features/output/features_report.html
+json_report: --format progress
+             --format json
+             --out=features/output/cucumber_result.json
 bvt: --tags @Sanity
 applicationURL: https://demo.cyclos.org/
 time: Time.now.strftime("%Y-%m-%d %H%M")
