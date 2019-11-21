@@ -1,6 +1,6 @@
 require 'capybara/cucumber'
 #require 'capybara-screenshot/cucumber'
-#require 'selenium-webdriver'
+require 'selenium/webdriver'
 require 'uri'
 require 'page-object'
 require 'rspec'
@@ -23,8 +23,8 @@ if ENV['http_proxy']
       profile["network.proxy.https"] = uri.host
       profile["network.proxy.https_port"] = uri.port
     end
-
-    Capybara::Selenium::Driver.new(app, :profile => profile)
+    path = './features/driver'
+    Capybara::Selenium::Driver.new(app, :profile => profile, :driver_path => path)
   end
 end
 
