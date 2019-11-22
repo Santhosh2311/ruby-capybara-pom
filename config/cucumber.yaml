@@ -3,7 +3,7 @@ default: --profile html_report --profile json_report
 html_report: --format progress
              --format html
              --out=features/output/features_report.html
-json_report: --format progress
+json_report: --format json_pretty
              --format json
              --out=features/output/cucumber_result.json
 bvt: --tags @Sanity
