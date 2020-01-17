@@ -1,44 +1,119 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="a9b7721a-8f48-4e25-8106-a3bae36b5513" name="Default Changelist" comment="" />
-    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <list default="true" id="342d9967-84e0-4c31-a8e9-65c662f6c208" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/ruby-capybara-pom-git.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Gemfile.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/features/driver/chromedriver.exe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/features/driver/geckodriver.exe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/features/output/media/failed_png/2019-11-08 1811 - Cyclos demo authentication validation.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/features/output/media/failed_png/2019-11-15 1243 - Cyclos demo authentication validation.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/features/output/media/failed_png/2019-11-15 1344 - Cyclos demo authentication validation.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/features/output/media/success_png/2019-11-15 1753 - Cyclos demo Invalid authentication validation.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/features/output/media/success_png/2019-11-19 1556 - Cyclos demo Invalid authentication validation.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/features/output/media/success_png/2019-11-19 1556 - Cyclos demo valid authentication validation.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/features/output/media/success_png/2019-11-21 1616 - Cyclos demo Invalid authentication validation.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/features/output/media/success_png/2019-11-21 1616 - Cyclos demo valid authentication validation.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/features/output/media/success_png/2019-11-21 1910 - Cyclos demo Invalid authentication validation.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/features/output/media/success_png/2019-11-21 1910 - Cyclos demo valid authentication validation.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/features/output/media/success_png/2019-11-22 1507 - Cyclos demo Invalid authentication validation.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/features/output/media/success_png/2019-11-22 1507 - Cyclos demo valid authentication validation.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/features/scenarios/blog.feature" beforeDir="false" afterPath="$PROJECT_DIR$/features/scenarios/blog.feature" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/features/step_definitions/steps.rb" beforeDir="false" afterPath="$PROJECT_DIR$/features/step_definitions/steps.rb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ruby-capybara-selenium-example-master.iml" beforeDir="false" afterPath="$PROJECT_DIR$/ruby-capybara-selenium-example-master.iml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
-  <component name="ProjectId" id="1T0EElYPt1SchLK6pRkYTWWh7Jf" />
-  <component name="PropertiesComponent">
-    <property name="ignore.virus.scanning.warn.message" value="true" />
-    <property name="project.structure.last.edited" value="Project" />
-    <property name="project.structure.proportion" value="0.0" />
-    <property name="project.structure.side.proportion" value="0.2" />
-    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="UPDATE_TYPE" value="MERGE" />
   </component>
-  <component name="RunDashboard">
-    <option name="ruleStates">
+  <component name="ProjectId" id="1WVhvYrgQ1E28EKxJexXmEgnwfC" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+  </component>
+  <component name="RunAnythingCache">
+    <option name="myCommands">
+      <command value="cucumber --tags @HomePage" />
+      <command value="cucumber --init" />
+    </option>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
       <list>
-        <RuleState>
-          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
-        </RuleState>
-        <RuleState>
-          <option name="name" value="StatusDashboardGroupingRule" />
-        </RuleState>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
       </list>
     </option>
   </component>
+  <component name="SpringUtil" SPRING_PRE_LOADER_OPTION="true" RAKE_SPRING_PRE_LOADER_OPTION="true" RAILS_SPRING_PRE_LOADER_OPTION="true" />
   <component name="SvnConfiguration">
     <configuration />
   </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="a9b7721a-8f48-4e25-8106-a3bae36b5513" name="Default Changelist" comment="" />
-      <created>1572588502813</created>
+      <changelist id="342d9967-84e0-4c31-a8e9-65c662f6c208" name="Default Changelist" comment="" />
+      <created>1579240909471</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1572588502813</updated>
+      <updated>1579240909471</updated>
+      <workItem from="1579240937784" duration="1840000" />
     </task>
     <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state width="1323" height="179" key="GridCell.Tab.0.bottom" timestamp="1579243640021">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="179" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1579243640021" />
+    <state width="1323" height="179" key="GridCell.Tab.0.center" timestamp="1579243640021">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="179" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1579243640021" />
+    <state width="1323" height="179" key="GridCell.Tab.0.left" timestamp="1579243640020">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="179" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1579243640020" />
+    <state width="1323" height="179" key="GridCell.Tab.0.right" timestamp="1579243640021">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="179" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1579243640021" />
+    <state x="492" y="281" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1579243714072">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="492" y="281" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1366.728@0.0.1366.728" timestamp="1579243714072" />
+    <state x="339" y="162" width="672" height="677" key="run.anything.popup" timestamp="1579243640061">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="339" y="162" width="672" height="677" key="run.anything.popup/0.0.1366.728@0.0.1366.728" timestamp="1579243640061" />
   </component>
 </project>
