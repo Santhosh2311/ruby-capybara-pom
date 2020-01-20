@@ -38,5 +38,4 @@ end
 
 And(/^i should see profile name as "([^"]*)"$/) do |text|
   expect(page).to have_text(text)
-  pending
 end
