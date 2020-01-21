@@ -20,6 +20,10 @@ After do |scenario|
     take_screenshot(scenario)
 end
 
+AfterStep do |step|
+  take_step_screenshot(step)
+end
+
 def initialize_webdriver
   file_path = File.expand_path(File.dirname(__FILE__) + '/../../config/cucumber.yaml')
   @config = ConfigurationHelpers.new(file_path)
@@ -37,6 +41,15 @@ def take_screenshot(scenario)
     screenshot_path = '.\features\output\media\success_png\\' + time + ' - ' + scenario_name + '.png'
   end
   sleep 2
+  page.driver.browser.save_screenshot(screenshot_path)
+  embed(screenshot_path, "image/png", "SCREENSHOT")
+end
+
+def take_step_screenshot(step)
+  puts "After Step"
+  time = Time.now.strftime("%Y-%m-%d %H%M%S")
+  screenshot_path = '.\features\output\media\step_png\\' + time + '.png'
+  sleep 1
   page.driver.browser.save_screenshot(screenshot_path)
   embed(screenshot_path, "image/png", "SCREENSHOT")
 end

@@ -8,7 +8,7 @@ Feature: Blog
       |userid|pass|
       |santhosh_amalraj|Soft$$123|
    And I should see title "Cyclos4 Communities"
-   And I Logout of Application
+   #And I Logout of Application
 
 @Sanity
    Scenario: Cyclos demo Invalid authentication validation
@@ -28,5 +28,5 @@ Feature: Blog
       |santhosh_amalraj|Soft$$123|
     And I should see title "Cyclos4 Communities"
     And i should see profile name as "santhosh_amalraj"
-    And I Logout of Application
+    #And I Logout of Application
 

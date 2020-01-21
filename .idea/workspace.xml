@@ -1,8 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="342d9967-84e0-4c31-a8e9-65c662f6c208" name="Default Changelist" comment="Adding Scenario">
+    <list default="true" id="342d9967-84e0-4c31-a8e9-65c662f6c208" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/features/output/media/failed_png/2020-01-21 1620 - Cyclos demo Invalid authentication validation.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/features/output/media/failed_png/2020-01-21 1620 - Cyclos demo valid authentication validation.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/features/output/media/failed_png/2020-01-21 1620 - Validate Cyclos Demo Home Page.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/features/output/media/failed_png/2020-01-21 1622 - Cyclos demo Invalid authentication validation.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/features/output/media/failed_png/2020-01-21 1622 - Cyclos demo valid authentication validation.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/features/output/media/failed_png/2020-01-21 1622 - Validate Cyclos Demo Home Page.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/features/output/media/step_png/2020-01-21 1625.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/features/output/media/success_png/2020-01-21 1625 - Cyclos demo Invalid authentication validation.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/features/output/media/success_png/2020-01-21 1625 - Cyclos demo valid authentication validation.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/features/output/media/success_png/2020-01-21 1625 - Validate Cyclos Demo Home Page.png" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/features/output/cucumber_result.json" beforeDir="false" afterPath="$PROJECT_DIR$/features/output/cucumber_result.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/features/output/features_report.html" beforeDir="false" afterPath="$PROJECT_DIR$/features/output/features_report.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/features/scenarios/blog.feature" beforeDir="false" afterPath="$PROJECT_DIR$/features/scenarios/blog.feature" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/features/support/hooks.rb" beforeDir="false" afterPath="$PROJECT_DIR$/features/support/hooks.rb" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -58,7 +71,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1579240909471</updated>
-      <workItem from="1579240937784" duration="8279000" />
+      <workItem from="1579240937784" duration="9544000" />
     </task>
     <task id="LOCAL-00001" summary="Adding Scenario">
       <created>1579243768147</created>
@@ -74,7 +87,14 @@
       <option name="project" value="LOCAL" />
       <updated>1579511235503</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="Adding Scenario">
+      <created>1579603179029</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1579603179030</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -101,10 +121,10 @@
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="137" y="19" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1366.728@0.0.1366.728" timestamp="1579245812188" />
-    <state x="261" y="0" key="CommitChangelistDialog2" timestamp="1579511233658">
+    <state x="261" y="0" key="CommitChangelistDialog2" timestamp="1579603177190">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="261" y="0" key="CommitChangelistDialog2/0.0.1366.728@0.0.1366.728" timestamp="1579511233658" />
+    <state x="261" y="0" key="CommitChangelistDialog2/0.0.1366.728@0.0.1366.728" timestamp="1579603177190" />
     <state width="1323" height="179" key="GridCell.Tab.0.bottom" timestamp="1579243781703">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
@@ -121,14 +141,18 @@
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state width="1323" height="179" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1579243781703" />
-    <state x="275" y="97" key="Vcs.Push.Dialog.v2" timestamp="1579511329456">
+    <state x="275" y="97" key="Vcs.Push.Dialog.v2" timestamp="1579603268445">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="275" y="97" key="Vcs.Push.Dialog.v2/0.0.1366.728@0.0.1366.728" timestamp="1579511329456" />
+    <state x="275" y="97" key="Vcs.Push.Dialog.v2/0.0.1366.728@0.0.1366.728" timestamp="1579603268445" />
     <state x="492" y="281" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1579243714072">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="492" y="281" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1366.728@0.0.1366.728" timestamp="1579243714072" />
+    <state x="484" y="156" key="git4idea.merge.GitMergeDialog" timestamp="1579603218022">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="484" y="156" key="git4idea.merge.GitMergeDialog/0.0.1366.728@0.0.1366.728" timestamp="1579603218022" />
     <state x="339" y="162" width="672" height="677" key="run.anything.popup" timestamp="1579243640061">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
