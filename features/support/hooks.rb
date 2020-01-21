@@ -36,6 +36,7 @@ def take_screenshot(scenario)
     time = Time.now.strftime("%Y-%m-%d %H%M")
     screenshot_path = '.\features\output\media\success_png\\' + time + ' - ' + scenario_name + '.png'
   end
+  sleep 2
   page.driver.browser.save_screenshot(screenshot_path)
   embed(screenshot_path, "image/png", "SCREENSHOT")
 end

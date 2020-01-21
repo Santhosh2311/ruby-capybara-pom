@@ -1,31 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="342d9967-84e0-4c31-a8e9-65c662f6c208" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/ruby-capybara-pom-git.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Gemfile.lock" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+    <list default="true" id="342d9967-84e0-4c31-a8e9-65c662f6c208" name="Default Changelist" comment="Adding Scenario">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/features/driver/chromedriver.exe" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/features/driver/geckodriver.exe" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/features/output/media/failed_png/2019-11-08 1811 - Cyclos demo authentication validation.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/features/output/media/failed_png/2019-11-15 1243 - Cyclos demo authentication validation.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/features/output/media/failed_png/2019-11-15 1344 - Cyclos demo authentication validation.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/features/output/media/success_png/2019-11-15 1753 - Cyclos demo Invalid authentication validation.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/features/output/media/success_png/2019-11-19 1556 - Cyclos demo Invalid authentication validation.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/features/output/media/success_png/2019-11-19 1556 - Cyclos demo valid authentication validation.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/features/output/media/success_png/2019-11-21 1616 - Cyclos demo Invalid authentication validation.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/features/output/media/success_png/2019-11-21 1616 - Cyclos demo valid authentication validation.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/features/output/media/success_png/2019-11-21 1910 - Cyclos demo Invalid authentication validation.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/features/output/media/success_png/2019-11-21 1910 - Cyclos demo valid authentication validation.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/features/output/media/success_png/2019-11-22 1507 - Cyclos demo Invalid authentication validation.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/features/output/media/success_png/2019-11-22 1507 - Cyclos demo valid authentication validation.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/features/scenarios/blog.feature" beforeDir="false" afterPath="$PROJECT_DIR$/features/scenarios/blog.feature" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/features/step_definitions/steps.rb" beforeDir="false" afterPath="$PROJECT_DIR$/features/step_definitions/steps.rb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ruby-capybara-selenium-example-master.iml" beforeDir="false" afterPath="$PROJECT_DIR$/ruby-capybara-selenium-example-master.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/features/support/hooks.rb" beforeDir="false" afterPath="$PROJECT_DIR$/features/support/hooks.rb" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -80,33 +58,73 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1579240909471</updated>
-      <workItem from="1579240937784" duration="1840000" />
+      <workItem from="1579240937784" duration="8279000" />
     </task>
+    <task id="LOCAL-00001" summary="Adding Scenario">
+      <created>1579243768147</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1579243768147</updated>
+    </task>
+    <task id="LOCAL-00002" summary="Adding Scenario">
+      <created>1579511235503</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1579511235503</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
   </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+    <MESSAGE value="Adding Scenario" />
+    <option name="LAST_COMMIT_MESSAGE" value="Adding Scenario" />
   </component>
   <component name="WindowStateProjectService">
-    <state width="1323" height="179" key="GridCell.Tab.0.bottom" timestamp="1579243640021">
+    <state x="137" y="19" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1579245812188">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1323" height="179" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1579243640021" />
-    <state width="1323" height="179" key="GridCell.Tab.0.center" timestamp="1579243640021">
+    <state x="137" y="19" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1366.728@0.0.1366.728" timestamp="1579245812188" />
+    <state x="261" y="0" key="CommitChangelistDialog2" timestamp="1579511233658">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1323" height="179" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1579243640021" />
-    <state width="1323" height="179" key="GridCell.Tab.0.left" timestamp="1579243640020">
+    <state x="261" y="0" key="CommitChangelistDialog2/0.0.1366.728@0.0.1366.728" timestamp="1579511233658" />
+    <state width="1323" height="179" key="GridCell.Tab.0.bottom" timestamp="1579243781703">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1323" height="179" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1579243640020" />
-    <state width="1323" height="179" key="GridCell.Tab.0.right" timestamp="1579243640021">
+    <state width="1323" height="179" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1579243781703" />
+    <state width="1323" height="179" key="GridCell.Tab.0.center" timestamp="1579243781703">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1323" height="179" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1579243640021" />
+    <state width="1323" height="179" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1579243781703" />
+    <state width="1323" height="179" key="GridCell.Tab.0.left" timestamp="1579243781703">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="179" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1579243781703" />
+    <state width="1323" height="179" key="GridCell.Tab.0.right" timestamp="1579243781703">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="179" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1579243781703" />
+    <state x="275" y="97" key="Vcs.Push.Dialog.v2" timestamp="1579511329456">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="275" y="97" key="Vcs.Push.Dialog.v2/0.0.1366.728@0.0.1366.728" timestamp="1579511329456" />
     <state x="492" y="281" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1579243714072">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
